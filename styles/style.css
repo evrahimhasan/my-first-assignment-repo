@@ -150,3 +150,46 @@ header {
     font-size: 20px;
     color: #000000;
 }
+
+
+
+
+
+.get-in-section {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+.get-in-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+form {
+    margin-top: 30px;
+}
+.get-in h2 {width: 528px;
+    font-size: 97px;
+    font-weight: bold;
+}
+.contact input, textarea {
+    width: 400px;
+    border-radius: 10px;
+    border: 1px solid #ccc ;
+    padding: 20px 32px;
+}
+
+.btn4 {
+    color: white;
+    font-size: 16px ;
+    font-weight: bold;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 10px;
+    padding: 12px 36px;
+}
